@@ -1,0 +1,11 @@
+{
+	"buttons": [
+        {
+            "type": "POPUP",
+            "ccb": "bbc_main_mailbox_single_button.ccbi",
+            "position": [-75, 0],
+            "button_img": "bbc_mailbox_btn_package.png",
+            "params": { "id": "2000" }
+        }
+	]
+}

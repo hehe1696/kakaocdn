@@ -1,0 +1,11 @@
+{
+    "buttons": [
+        {
+            "type": "URL",
+            "ccb": "bbc_main_mailbox_single_button.ccbi",
+            "position": [50, 0],
+            "button_img": "bbc_btn_cookiecell_viewdetail.png",
+            "params": { "id": "https://store.line.me/event/20030734/en?utm_source=matsuri&utm_medium=popup_oshirase&utm_campaign=cookierun" }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlist</key>
+	<array>
+		<dict>
+			<key>FPS</key>
+			<real>0.10000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+		</dict>
+	</array>
+	<key>framelist</key>
+	<array>
+		<string>stat_life_use1.png</string>
+		<string>stat_life_use2.png</string>
+		<string>stat_life_use3.png</string>
+		<string>stat_life_use4.png</string>
+	</array>
+	<key>name</key>
+	<string>stat_life_use</string>
+	<key>texture</key>
+	<string>stat_life_use</string>
+	<key>type</key>
+	<string>frame</string>
+</dict>
+</plist>

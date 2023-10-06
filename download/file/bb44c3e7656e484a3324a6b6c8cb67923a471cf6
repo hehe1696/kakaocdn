@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlist</key>
+	<array>
+		<dict>
+			<key>FPS</key>
+			<real>0.15000000596046448</real>
+			<key>FrameList</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+		</dict>
+	</array>
+	<key>framelist</key>
+	<array>
+		<string>jelly_big_1.png</string>
+		<string>jelly_big_2.png</string>
+	</array>
+	<key>name</key>
+	<string>jelly_big</string>
+	<key>texture</key>
+	<string>jelly_big</string>
+	<key>type</key>
+	<string>frame</string>
+</dict>
+</plist>

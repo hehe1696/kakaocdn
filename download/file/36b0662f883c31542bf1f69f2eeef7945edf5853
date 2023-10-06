@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlist</key>
+	<array>
+		<dict>
+			<key>FPS</key>
+			<real>0.10000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>2</integer>
+				<integer>3</integer>
+				<integer>3</integer>
+				<integer>3</integer>
+				<integer>3</integer>
+			</array>
+		</dict>
+	</array>
+	<key>framelist</key>
+	<array>
+		<string>ch29_effect11_01.png</string>
+		<string>ch29_effect11_02.png</string>
+		<string>ch29_effect12_01.png</string>
+		<string>ch29_effect12_02.png</string>
+		<string>ch29_effect13_01.png</string>
+		<string>ch29_effect13_02.png</string>
+		<string>ch29_effect21_01.png</string>
+		<string>ch29_effect21_02.png</string>
+		<string>ch29_effect21_03.png</string>
+		<string>ch29_effect22_01.png</string>
+		<string>ch29_effect22_02.png</string>
+		<string>ch29_effect22_03.png</string>
+		<string>ch29_effect23_01.png</string>
+		<string>ch29_effect23_02.png</string>
+		<string>ch29_effect23_03.png</string>
+		<string>ch29_effect32_01.png</string>
+		<string>ch29_effect32_02.png</string>
+		<string>ch29_effect32_03.png</string>
+		<string>ch29_effect33_01.png</string>
+		<string>ch29_effect33_02.png</string>
+		<string>ch29_effect33_03.png</string>
+	</array>
+	<key>name</key>
+	<string>ch29_effect_12</string>
+	<key>texture</key>
+	<string>ch29_effect</string>
+	<key>type</key>
+	<string>frame</string>
+</dict>
+</plist>

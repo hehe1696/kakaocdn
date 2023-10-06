@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pet81_jelly_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{28,30}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{3,2},{28,30}}</string>
+                <key>sourceSize</key>
+                <string>{34,34}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>pet81_jelly.png</string>
+            <key>size</key>
+            <string>{32,64}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c1cf1c92f254197ecc4dc803becc8666:e3103fd84945453116550f66fde51f89:961019009bdfe641c19264c8f6eacff7$</string>
+            <key>textureFileName</key>
+            <string>pet81_jelly.png</string>
+        </dict>
+    </dict>
+</plist>

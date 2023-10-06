@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlist</key>
+	<array>
+		<dict>
+			<key>FPS</key>
+			<real>0.10000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+			</array>
+		</dict>
+	</array>
+	<key>framelist</key>
+	<array>
+		<string>effect13_warning_1.png</string>
+		<string>effect13_warning_2.png</string>
+		<string>effect13_warning_3.png</string>
+	</array>
+	<key>name</key>
+	<string>effect13_warning</string>
+	<key>texture</key>
+	<string>effect13_warning</string>
+	<key>type</key>
+	<string>frame</string>
+</dict>
+</plist>

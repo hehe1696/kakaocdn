@@ -1,0 +1,10 @@
+{
+    "buttons": [
+        {
+            "type": "IMAGE_NOTICE",
+            "ccb": "bbc_main_mailbox_single_button.ccbi",
+            "position": [351, 5],
+            "button_img": "bbc_btn_cookiecell_viewdetail.png"
+        }
+    ]
+}

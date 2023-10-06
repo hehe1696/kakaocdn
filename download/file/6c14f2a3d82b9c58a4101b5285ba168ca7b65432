@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>intro_epN04_back.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1136,640}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1136,640}}</string>
+                <key>sourceSize</key>
+                <string>{1136,640}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>intro_epN04.png</string>
+            <key>size</key>
+            <string>{1024,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e6d1ce3378bf2607fac2bca03aac5e2d:65e9ba0d2df4879490feb46d9addbc9c:9f1fc05b970a372c4004c1a58a83c003$</string>
+            <key>textureFileName</key>
+            <string>intro_epN04.png</string>
+        </dict>
+    </dict>
+</plist>

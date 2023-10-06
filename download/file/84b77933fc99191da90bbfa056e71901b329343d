@@ -1,0 +1,9 @@
+{
+	"cell.notice.title.prefix": "<font color=\"454545\" size=\"14\">",
+	"cell.notice.title.suffix": "</font>",
+	"cell.notice.content.prefix": "<b><font color=\"454545\" size=\"13\">",
+	"cell.notice.content.suffix": "</font></b>",
+	"cell.notice.footer.prefix": "",
+	"cell.notice.footer.suffix": "",
+	"cell.life_at_once.size": [253, 46]
+}

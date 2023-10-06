@@ -1,0 +1,17 @@
+{
+    "buttons": [
+        {
+            "type": "IMAGE_NOTICE",
+            "ccb": "bbc_main_mailbox_single_button.ccbi",
+            "position": [241, 5],
+            "button_img": "bbc_btn_cookiecell_viewdetail.png"
+        },
+        {
+            "type": "POPUP",
+            "ccb": "bbc_main_mailbox_single_button.ccbi",
+            "position": [341, 5],
+            "button_img": "bbc_btn_cookiecell_buy.png",
+            "params": { "id": "1001" }
+        }
+    ]
+}

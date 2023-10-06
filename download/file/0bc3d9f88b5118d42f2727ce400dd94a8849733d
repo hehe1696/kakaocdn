@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>intro_epS02_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{568,320}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{568,320}}</string>
+                <key>sourceSize</key>
+                <string>{568,320}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>intro_epS02.png</string>
+            <key>size</key>
+            <string>{512,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:73f51002d5b8882c4146b171f41814f8:6a146ff5941b32a992c4258143610378:cc431575065df48aca66e12739e8b749$</string>
+            <key>textureFileName</key>
+            <string>intro_epS02.png</string>
+        </dict>
+    </dict>
+</plist>

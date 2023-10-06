@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlist</key>
+	<array>
+		<dict>
+			<key>FPS</key>
+			<real>0.10000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>0</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>FPS</key>
+			<real>0.050000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>FPS</key>
+			<real>0.10000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>4</integer>
+				<integer>5</integer>
+				<integer>6</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>FPS</key>
+			<real>0.10000000149011612</real>
+			<key>FrameList</key>
+			<array>
+				<integer>0</integer>
+			</array>
+		</dict>
+	</array>
+	<key>framelist</key>
+	<array>
+		<string>pet60_effect04.png</string>
+		<string>pet60_effect03_01.png</string>
+		<string>pet60_effect03_02.png</string>
+		<string>pet60_effect03_03.png</string>
+		<string>pet60_effect03_04.png</string>
+		<string>pet60_effect03_05.png</string>
+		<string>pet60_effect03_06.png</string>
+	</array>
+	<key>name</key>
+	<string>pet60_effect03</string>
+	<key>texture</key>
+	<string>pet60_effect</string>
+	<key>type</key>
+	<string>frame</string>
+</dict>
+</plist>
